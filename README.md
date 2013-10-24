@@ -1,4 +1,4 @@
-Ubuntu 12.04 Gota 
+Ubuntu 12.04 Gota
 =================
 Una distribución Ubuntu mas potente con mas aplicaciones y herramientas. A diferencia de la distribución estándar de Ubuntu es que posee características tales como:
  * Arquitectura de 32 y 64 bits
@@ -21,7 +21,7 @@ Características de Software
   * eclipse
   * gnome-panel
  * **Configuración**
-  * **GConf**
+  * **GConf:**
    * com.canonical.unity-greeter: /usr/share/backgrounds/Blue-Colour-Wallpaper.jpg
-  * **File Config**
+  * **File Config:**
    * /etc/default/apport: enabled=0
