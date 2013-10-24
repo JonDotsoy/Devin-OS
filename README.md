@@ -4,6 +4,7 @@ Una distribución Ubuntu mas potente con mas aplicaciones y herramientas. A dife
  * Arquitectura de 32 y 64 bits
  * Ideales para Desarrolladores
  * Solución a Bug
+
 Esta distribución esta echa para ser utilizada por equipos de alto rendimiento y usuarios que requieren una computadora de alta exigencia. y potable.
 
 Requerimientos de Hardware
