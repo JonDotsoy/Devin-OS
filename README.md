@@ -21,6 +21,7 @@ Características de Software
   * ia32-libs
   * eclipse
   * gnome-panel
+  * VisualGotaModificUbuntu13.04
  * **Configuración**
   * **GConf:**
    * com.canonical.unity-greeter: /usr/share/backgrounds/Blue-Colour-Wallpaper.jpg
