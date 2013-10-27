@@ -26,6 +26,6 @@ Características de Software
   * sublime Text 3 + [sublime text Package Extra](https://github.com/alfa30/sublime-text-Package-Extra)
  * **Configuración**
   * **GConf:**
-   > * com.canonical.unity-greeter: /usr/share/backgrounds/Blue-Colour-Wallpaper.jpg
+   * com.canonical.unity-greeter: /usr/share/backgrounds/Blue-Colour-Wallpaper.jpg
   * **File Config:**
-   > * /etc/default/apport: enabled=0
+   * /etc/default/apport: enabled=0
