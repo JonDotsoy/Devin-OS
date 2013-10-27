@@ -29,3 +29,7 @@ Características de Software
    * com.canonical.unity-greeter: /usr/share/backgrounds/Blue-Colour-Wallpaper.jpg
   * **File Config:**
    * /etc/default/apport: enabled=0
+
+Licencia
+--------
+Ver [LICENSE.txt](https://github.com/alfa30/ubuntu-project-gota/blob/master/LICENSE.txt)
