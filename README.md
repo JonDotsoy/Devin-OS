@@ -1,4 +1,4 @@
-Ubuntu 12.04 Gota
+Ubuntu 14.04 Gota
 =================
 Una distribución Ubuntu mas potente con mas aplicaciones y herramientas. A diferencia de la distribución estándar de Ubuntu. Esta distribución posee características tales como:
  * Arquitectura de 32 y 64 bits
@@ -27,6 +27,7 @@ Características de Software
   * gnome-panel
   * VisualGotaModificUbuntu13.04
   * inkscape
+  * Google-Chrome
   * Gimp
   * wine
   * glade
