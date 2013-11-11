@@ -33,6 +33,7 @@ Características de Software
   * glade
   * php
   * tree
+  * vala
   * sublime Text 3 + [sublime text Package Extra](https://github.com/alfa30/sublime-text-Package-Extra)
  * **Configuración**
   * **GConf:**
