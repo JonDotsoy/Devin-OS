@@ -34,6 +34,7 @@ Características de Software
   * php
   * tree
   * vala
+  * libgtk-3-dev
   * sublime Text 3 + [sublime text Package Extra](https://github.com/alfa30/sublime-text-Package-Extra)
  * **Configuración**
   * **GConf:**
