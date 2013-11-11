@@ -36,6 +36,7 @@ Características de Software
   * vala
   * libgtk-3-dev
   * sublime Text 3 + [sublime text Package Extra](https://github.com/alfa30/sublime-text-Package-Extra)
+
  * **Configuración**
   * **GConf:**
    * com.canonical.unity-greeter: /usr/share/backgrounds/Blue-Colour-Wallpaper.jpg
