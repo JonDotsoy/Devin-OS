@@ -28,7 +28,7 @@ Características de Software
   * VisualGotaModificUbuntu13.04
   * inkscape
   * Google-Chrome
-  * Gimp
+  * Gimp 
   * wine
   * glade
   * php
