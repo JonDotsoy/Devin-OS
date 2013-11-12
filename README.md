@@ -40,6 +40,7 @@ Características de Software
   * gparted
   * transmission
   * sublime Text 3 + [sublime text Package Extra](https://github.com/alfa30/sublime-text-Package-Extra)
+  * -- [Ver todos](https://github.com/alfa30/Devin-OS/blob/master/packages.txt)
 
 Licencia
 --------
