@@ -1,6 +1,7 @@
-Ubuntu 14.04 Gota
-=================
-Una distribución Ubuntu mas potente con mas aplicaciones y herramientas. A diferencia de la distribución estándar de Ubuntu. Esta distribución posee características tales como:
+Devin OS
+========
+
+Una distribución Linux basada en elementary os. mas potente con mas aplicaciones y herramientas. A diferencia de la distribución estándar de Linux. Esta distribución posee características tales como:
  * Arquitectura de 32 y 64 bits
  * Ideales para Desarrolladores
  * Solución a Bug
@@ -9,11 +10,12 @@ Esta distribución esta echa para ser utilizada por equipos de alto rendimiento 
 
 Requerimientos de Hardware
 --------------------------
-Es posible iniciar Ubuntu Gota sobre cualquier notebook o equipo de escritorio, poro requiere de un requerimiento mínimo de hardware:
+
+Es posible iniciar Devin OS sobre cualquier notebook o equipo de escritorio, poro requiere de un requerimiento mínimo de hardware:
  * **Procesador:** 2 Gigahertz (GHz) o superior
  * **RAM:** 2 GB
  * **Espacio en disco duro:** 7 GB
- * **Tarjeta gráfica:** 256M
+ * **Tarjeta gráfica:** 128M
 
 Características de Software
 ---------------------------
@@ -24,8 +26,6 @@ Características de Software
   * rpm
   * rubygems
   * eclipse
-  * gnome-panel
-  * VisualGotaModificUbuntu13.04
   * inkscape
   * Google-Chrome
   * Gimp
@@ -34,14 +34,12 @@ Características de Software
   * php
   * tree
   * vala
+  * java 6-7
   * libgtk-3-dev
+  * gparted
+  * transmission
   * sublime Text 3 + [sublime text Package Extra](https://github.com/alfa30/sublime-text-Package-Extra)
- * **Configuración**
-  * **GConf:**
-   * com.canonical.unity-greeter: /usr/share/backgrounds/Blue-Colour-Wallpaper.jpg
-  * **File Config:**
-   * /etc/default/apport: enabled=0
 
 Licencia
 --------
-Ver [LICENSE.txt](https://github.com/alfa30/ubuntu-project-gota/blob/master/LICENSE.txt)
+Ver [LICENSE.txt](https://github.com/alfa30/Linux-project-gota/blob/master/LICENSE.txt)
