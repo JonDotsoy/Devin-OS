@@ -19,6 +19,7 @@ Es posible iniciar Devin OS sobre cualquier notebook o equipo de escritorio, por
 
 Características de Software
 ---------------------------
+ * Ultima Actualización: lun 11 de nov 2013.
  * **Paquetes:**
   * ia32-libs
   * ruby
